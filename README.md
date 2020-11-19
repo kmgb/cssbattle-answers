@@ -1,2 +1,11 @@
 # cssbattle-answers
 My personal answers for CSSBattle
+
+I avoid the use of SVGs since I find it more interesting to find a CSS solution.
+
+Tips:
+* https://cssbattle.dev/tips/
+* `px` can be omitted for width, height, left, right, top, and bottom values, since the browser will be in Quirk Mode
+* `in` is the most powerful unit, 9in can be used when you want a huge value that requires a unit
+* `%` values may be squished together, such as `clip-path:inset(0 0 50%0)` (no space between 50% and 0)
+* Functions don't need to be closed when at the end of a file: `transform:scaleX(-1` can be the end of a file, without the closing `)` or `}`.
