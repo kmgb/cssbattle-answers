@@ -1,7 +1,7 @@
 # cssbattle-answers
 My personal answers for CSSBattle
 
-I avoid the use of SVGs since I find it more interesting to find a CSS solution.
+I choose not to use SVG paths in my answers since I find it more interesting to solve with other CSS code.
 
 Tips:
 * https://cssbattle.dev/tips/
